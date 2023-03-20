@@ -30,11 +30,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am a **Software Engineer** with some DevOps experience. I love solving complex problems involving algorithmic design and cloud computing with extensive experience building and deploying microservices using Flask, Django and Amazon Web Services.
+- 🔭 I am a **Fullstack Software Engineer** and **Text Analyst** who has built and deployed a python library that wraps around the YouTube API, a website that finds and reccomends python programming videos from YouTube and a social application for sharing photos and messages.
 
-- 🌱 I'm also an AWS Communities Builder who loves sharing my knowledge on AWS, microservices development and deployment as well as robotics. My main focus is one developer tools offered by AWS. You can find my articles over at [medium](https://medium.com/@lyle-okoth)
+- 🌱 I'm also a writer who periodically puts out tecnical articles especially on text analyics.You can find my articles over at [medium](https://medium.com/@lyle-okoth)
 
-- 👯 I’m looking to collaborate on **OpenSource Projects on ROS, Python as well as Flask and Django.**
+- 👯 I’m currently working on **A platform where people learn python programming from freely available YouTube videos.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://twyle.github.io/portfolio-simple/)**
 
@@ -48,15 +48,15 @@
 
 ## Skills and Expertise
 
-- **Programming languages**: Python | C | Javascript
+- **Programming languages**: Python | Javascript
 - **Server-side Frameworks**: Flask 
 - **Client-side Frameworks**: React
-- **Other frameworks and tools**: Robot Operating System (ROS) | Celery | Scrapy
+- **Other frameworks and tools**: Robot Operating System (ROS) | Celery | Scrapy | scikit-learn | spacy | nltk
 - **Agile methodologies and Tools**:
     - **Unit Testing**: Pytest | Unittest
     - **CI/CD and Versioning**: git | docker | docker-compose | github actions
     - **Feature Driven Development**: Scrum | Test Driven Development (TDD)
- - **Databases and ORM**: Postgres | MongoDB | SQL Alchemy | SQL
+ - **Databases and ORM**: PostgreSQL | Elasticsearch | SQL Alchemy | SQL
  - **Operating Systems**: Linux | Windows
  - **Logging**: ELK stack
  - **Cloud**: AWS EC2 | AWS S3 | AWS ECS | AWS EK8 | AWS ECR | AWS CloudFormation | AWS SQS
