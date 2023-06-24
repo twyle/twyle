@@ -30,20 +30,11 @@
 </p>
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I am a **Fullstack Software Engineer** and **Text Analyst** who has built and deployed a [python library that wraps around the YouTube API](), a website that [finds and reccomends python programming videos from YouTube]() and a [social application for sharing photos and messages]().
-- 🔭 I have a solid understanding of the following concepts:
-
-  - Model View Controller Architecture
-  - Documentation
-  - Working with APIs including GitHub and YouTube.
-  - Test Driven Development
-  - Object oriented design
-  - Dsign Methodologies
-  - Containerization
+- A **problem solver** who loves to come up with creative solutions to societal challenges by leveraging technology. With a background in **Mechatronics Engineering** coupled with **3+ Years of Software Development experience**, I enjoy working in various fields with a strong preference for **data intensive industries**.
+- I ``develop Software`` Products that ``process large quantities of data`` especially ``textual data`` to solve various challenges. I am currently wotking with ``Python`` and the ``GitHub API`` to identify interesting open-source projects that junior software engineers can contribute to over at [Oryks Systems](https://www.oryks-sytem.com/).
 - 🌱 I'm also a writer who periodically puts out tecnical articles especially on text analyics.You can find my articles over at [medium](https://medium.com/@lyle-okoth)
 - 👯 I’m currently working on **A platform where people learn python programming from freely available YouTube videos.**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://twyle.github.io/portfolio-simple/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://lyleokoth.oryks-sytem.com/)**
 - 📫 How to reach me through email **okothlyleochieng@gmail.com**
 - 📫 How to reach me on twitter **[@lylethedesigner](https://twitter.com/lylethedesigner)**
 - 📫 How to reach me on linkedin **[Lyle Okoth](https://www.linkedin.com/in/lyle-okoth/)**
@@ -52,7 +43,7 @@
 ## Skills and Expertise
 
 - **Programming languages**: Python | Javascript
-- **Server-side Frameworks**: Flask
+- **Server-side Frameworks**: Flask | FastAPI
 - **Client-side Frameworks**: React
 - **Other frameworks and tools**: Robot Operating System (ROS) | Celery | Scrapy | scikit-learn | spacy | nltk
 - **Agile methodologies and Tools**:
