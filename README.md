@@ -61,11 +61,11 @@
 # Lyle's Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating A Documentation Generator for Python Projects using GPT3: Part Four](https://medium.com/@lyle-okoth/creating-a-documentation-generator-for-python-projects-using-gpt3-part-four-4409f4f47bd5?source=rss-2637c671f6af------2)
 - [Creating A Documentation Generator for Python Projects using GPT3: Part Three](https://medium.com/@lyle-okoth/creating-a-documentation-generator-for-python-projects-using-gpt3-part-three-c46eb34d24e9?source=rss-2637c671f6af------2)
 - [Creating A Documentation Generator for Python Projects using GPT3: Part Two](https://medium.com/@lyle-okoth/creating-a-documentation-generator-for-python-projects-using-gpt3-part-two-0cb22fd01a2a?source=rss-2637c671f6af------2)
 - [Creating A Documentation Generator for Python Projects using GPT3](https://blog.gopenai.com/creating-a-documentation-generator-for-python-projects-using-gpt3-f78b63b835ec?source=rss-2637c671f6af------2)
 - [How to Manage Application Secrets with Hashicorp’s Vault.](https://medium.com/@lyle-okoth/how-to-manage-application-secrets-with-hashicorps-vault-865216896a39?source=rss-2637c671f6af------2)
-- [How to Deploy a Production Grade Flask application to an AWS EC2 Instance using GitHub Actions…](https://medium.com/@lyle-okoth/how-to-deploy-a-production-grade-flask-application-to-an-aws-ec2-instance-using-github-actions-9bfd82698000?source=rss-2637c671f6af------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
